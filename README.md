@@ -1,0 +1,1 @@
+We have sales data from January 2023 to February 2024. We'll analyze sales achievements against individual targets, focusing on both year-to-date (YTD)performance and identifying the top performer for each month. This will help us understand overall progress towards goals, pinpoint areas for improvement, and recognize outstanding salesperson.
